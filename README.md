@@ -52,7 +52,9 @@ Ten business questions answered with SQL (aggregations, CTEs, window functions):
 
 An interactive dashboard with KPI cards, charts, and filters for subscription status, gender, category, and shipping type.
 
-![Customer Behavior Dashboard](dashboard/dashboard.png)
+dashboard Png:     
+<img width="766" height="431" alt="Dashboard" src="https://github.com/user-attachments/assets/91165297-43aa-4264-b0c6-f4dc96922d1a" />
+
 
 ## Key Insights
 
